@@ -1,0 +1,7 @@
+/target
+/.settings
+/.project
+/bin
+/.classpath
+*.sublime*
+/.externalToolBuilders
